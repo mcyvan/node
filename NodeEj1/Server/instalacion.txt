@@ -1,0 +1,6 @@
+npn init en la carpeta de node
+enter
+enter
+conexion a apis en descripcion
+enter
+enter
