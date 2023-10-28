@@ -1,0 +1,11 @@
+.main{
+ margin: 5px;
+}
+button{
+    margin: 5px;
+}
+div{
+    margin: 3px;
+    text-align: center;
+    border: solid 1px black;
+}
